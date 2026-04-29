@@ -19,8 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Blocks/OpenApp'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Blocks/AddTask'), [('tasktitle') : tasktitle, ('desctask') : desctask, ('bulan') : bulan
-        , ('tanggal') : tanggal, ('jam') : jam, ('menit') : menit, ('period') : period, ('kategori') : kategori], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.callTestCase(findTestCase('Blocks/DeleteTask'), [:], FailureHandling.STOP_ON_FAILURE)
 

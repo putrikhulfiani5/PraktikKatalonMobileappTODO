@@ -104,7 +104,7 @@
       <name>period</name>
    </variable>
    <variable>
-      <defaultValue>'Insurance'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>d8732864-95b1-4ba8-9508-b6700e9f95ab</id>
       <masked>false</masked>

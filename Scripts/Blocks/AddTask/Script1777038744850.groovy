@@ -73,7 +73,8 @@ switch (period) {
 
         break
     default:
-        Mobile.comment('Period tidak valid')}
+		Mobile.tap(findTestObject('settime-AM'), 0)
+		Mobile.comment('Period dipilih default')}
 
 // KLIK OK DI TIME
 Mobile.tap(findTestObject('btn.setTime-OK'), 0)
@@ -108,7 +109,8 @@ switch (kategori) {
 
         break
     default:
-        Mobile.comment('Category tidak ditemukan')}
+		Mobile.tap(findTestObject('list.categoryPersonal'), 0)
+        Mobile.comment('Category dipilih default')}
 
 // SAVE TASK
 Mobile.tap(findTestObject('btn.saveTask'), 0)

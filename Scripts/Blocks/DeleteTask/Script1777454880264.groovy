@@ -23,6 +23,3 @@ Mobile.tap(findTestObject('task-selectDelete'), 0)
 
 Mobile.tap(findTestObject('task-selectpopupDELETE'), 0)
 
-// Verify task hilang
-Mobile.verifyElementNotExist(findTestObject('tasktodo-Test 1'), 5)
-

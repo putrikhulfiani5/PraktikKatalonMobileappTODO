@@ -19,49 +19,49 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>226aaedd-ea8b-41e9-8997-b3061f59c5fd</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>14581f96-7774-414f-89fd-f04a2dd035a4</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>69018eab-8ac4-42b2-83a9-1b62e1878d6b</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>9ee4e5a4-c7c9-4f04-b639-fe72e00be5eb</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>89d94363-5d7a-4a72-94eb-6031aca04dcf</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>694b2663-97cf-466a-b33f-2ce7003c7a84</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>fe95b0d5-0b92-429e-8dbf-9679bd5c2ff3</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
+         <type>DATA_COLUMN</type>
          <value></value>
          <variableId>d8732864-95b1-4ba8-9508-b6700e9f95ab</variableId>
       </variableLink>
@@ -72,54 +72,6 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Scenario/TC002-Delete Task</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>226aaedd-ea8b-41e9-8997-b3061f59c5fd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>14581f96-7774-414f-89fd-f04a2dd035a4</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>69018eab-8ac4-42b2-83a9-1b62e1878d6b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>9ee4e5a4-c7c9-4f04-b639-fe72e00be5eb</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>89d94363-5d7a-4a72-94eb-6031aca04dcf</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>694b2663-97cf-466a-b33f-2ce7003c7a84</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fe95b0d5-0b92-429e-8dbf-9679bd5c2ff3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>d8732864-95b1-4ba8-9508-b6700e9f95ab</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>f9b2182c-1351-4419-b329-cfd5f620aac8</guid>
